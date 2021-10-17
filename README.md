@@ -1,1 +1,1 @@
-# cryto_figures
+# crypto_figures
